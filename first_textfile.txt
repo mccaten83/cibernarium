@@ -1,4 +1,6 @@
 Esta es una prueba de fitxer.
 Es mi primer fichero que voy a subir a gitHub
 
-Modificando el fichero 
+Modificando el fichero
+
+Ahora modifico desde el master segun lo pedido en el 2do paso.
