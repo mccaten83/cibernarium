@@ -3,4 +3,8 @@ Es mi primer fichero que voy a subir a gitHub
 
 Modificando el fichero
 
+<<<<<<< HEAD
 Ahora modifico desde el master segun lo pedido en el 2do paso.
+=======
+Modificando el fichero para el nuevo branch branch1
+>>>>>>> branch1
