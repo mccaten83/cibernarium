@@ -1,2 +1,4 @@
 Esta es una prueba de fitxer.
 Es mi primer fichero que voy a subir a gitHub
+
+Modificando el fichero 
